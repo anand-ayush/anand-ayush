@@ -21,8 +21,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-anand&show_icons=true&locale=en&layout=compact" alt="ayush-anand" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-anand&show_icons=true&locale=en" alt="ayush-anand" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-anand&" alt="ayush-anand" /></p>
