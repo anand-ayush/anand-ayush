@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-anand&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-anand" /> </p>
 
-- 🔭 I’m currently working on **Chat-App**
+- 🔭 I’m currently working on **An automation tool**
 
 - 🌱 I’m currently learning **DevOps.**
 
